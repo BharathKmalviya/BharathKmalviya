@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bharath K Malviya</h1>
-<h3 align="center">Android Developer</h3>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bharath K Malviya</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android%20Developer&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left"><img
         src="https://komarev.com/ghpvc/?username=BharathKmalviya&label=Profile%20views&color=0e75b6&style=flat"
@@ -34,6 +36,17 @@
             height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img
             src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"
             alt="realm" width="40" height="40"/> </a></p>
+
+<p align="center"> 
+ 
+</p>
+  
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
+![](https://github.com/Salonee-Jain/Salonee-Jain/blob/main/imgs/bottom_header.svg)
+
+</p>
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=BharathKmalviya&show_icons=true&locale=en&layout=compact"
