@@ -7,9 +7,6 @@
         src="https://komarev.com/ghpvc/?username=BharathKmalviya&label=Profile%20views&color=0e75b6&style=flat"
         alt="BharathKmalviya"/></p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=BharathKmalviya" alt="BharathKmalviya"/></a></p>
-
 - 💬 Ask me about **Android**
 
 
@@ -48,13 +45,21 @@
 </p>
 
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=BharathKmalviya&show_icons=true&locale=en&layout=compact"
-        alt="BharathKmalviya"/></p>
+![Profile views](https://gpvc.arturio.dev/BharathKmalviya)
 
-<p><img align="center"
-              src="https://github-readme-stats.vercel.app/api?username=BharathKmalviya&show_icons=true&locale=en"
-              alt="BharathKmalviya"/></p>
+<center>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=BharathKmalviya&column=6" width="100%"/>
+</a>
+ </center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BharathKmalviya&"
-        alt="BharathKmalviya"/></p>
+---
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=BharathKmalviya&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathKmalviya&layout=compact" />
+</div>
+
+<center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathKmalviya&count_private=true" alt="BharathKmalviya" />
+  </center
