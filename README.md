@@ -45,7 +45,7 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/BharathKmalviya)
+<!-- ![Profile views](https://gpvc.arturio.dev/BharathKmalviya) -->
 
 <center>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
