@@ -63,5 +63,4 @@
 </div>
 
 <center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharathKmalviya&count_private=true" alt="BharathKmalviya" />
   </center
