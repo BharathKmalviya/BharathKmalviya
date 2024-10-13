@@ -13,12 +13,14 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-bharathkmalviyas-projects.vercel.app/api?username=BharathKmalviya&show_icons=true&private=true&bg_color=00000000)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkmalviya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bharathkmalviya&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Bharathkmalviya&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bharathkmalviya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bharathkmalviya&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bharathkmalviya&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![An image of @bharathkmalviya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharathkmalviya)](https://holopin.io/@bharathkmalviya)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
