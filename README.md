@@ -31,4 +31,3 @@ I’m a Senior Android Engineer with a passion for building scalable, high-perfo
 [![An image of @bharathkmalviya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharathkmalviya)](https://holopin.io/@bharathkmalviya)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
