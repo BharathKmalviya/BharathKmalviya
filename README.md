@@ -5,7 +5,6 @@
 ![Stats](https://github-readme-stats-bharathkmalviyas-projects.vercel.app/api?username=BharathKmalviya&show_icons=true&private=true&theme=transparent)
 
 ---
-
 ## 💼 Experience
 - 5+ years in Android development, shipping production-grade apps
 - Focus on scalable, high-performance mobile architectures
