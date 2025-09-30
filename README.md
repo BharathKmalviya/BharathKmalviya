@@ -8,7 +8,3 @@ I’m a Senior Android Engineer with a passion for building scalable, high-perfo
 - 💼 **Experience:** 5+ years in Android dev, architecting apps from concept to production  
 
 ---
-
-## 🌐 Socials:
-asd
-sadasd
