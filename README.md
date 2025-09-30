@@ -15,6 +15,14 @@ Senior Android Engineer focused on scalable, delightful mobile experiences.
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Skills Matrix
+| Area | Proficiency | Notes |
+|---|---|---|
+| Jetpack Compose | Advanced | Navigation, animations, state |
+| Kotlin Coroutines/Flow | Advanced | Performance, structured concurrency |
+| Architecture | Advanced | MVVM/MVI, modularization, DI |
+| Tooling | Advanced | Gradle, CI/CD, Play Console |
+
 ## Highlights
 - 5+ years experience shipping production apps end-to-end
 - Performance tuning: startup time, jank reduction, memory leaks
