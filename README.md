@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Bharath 👋</h1>
+<h1 align="left">Hey, I'm Bharath 👋</h1> 
 <h3 align="left">Senior Android Engineer | 6+ Years Building Production-Grade Mobile Apps</h3>
 
 <p align="left">
