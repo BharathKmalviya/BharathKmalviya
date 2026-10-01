@@ -1,39 +1,51 @@
-<h1 align="left">Hey, I'm Bharath 👋</h1> 
-<h3 align="left">Senior Android Engineer | 6+ Years Building Production-Grade Mobile Apps</h3>
+# Hi, I'm Bharath 👋
 
-<p align="left">
-Kotlin & Java • MVVM • Jetpack Compose • Firebase • Real-Time Comms (XMPP/Agora) • AI-Assisted Development
-</p>
+📍 **India** | 📱 **Senior Android Engineer** | 🤖 **AI-aware mobile builder**
+
+I build production Android apps, developer tools, and cross-platform experiments around **Kotlin, Jetpack Compose, KMP, and AI-assisted engineering**.
+
+Open to **Senior Android / Mobile Engineering** opportunities where I can own features end-to-end and help ship reliable products.
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Start Here
+
+- 🌍 **[android-llm-localization](https://github.com/BharathKmalviya/android-llm-localization)** - CLI that translates Android `strings.xml` with Gemini, OpenAI, Anthropic, or Ollama.
+- ⏱️ **[Aggressive Pomodoro](https://github.com/BharathKmalviya/Aggressive-Pomodoro)** - Windows focus timer built with Kotlin and Compose Multiplatform, with local tasks, reports, persistent sessions, and release packaging.
+- 🎬 **[stream-dl](https://github.com/BharathKmalviya/stream-dl)** - Fast, resumable HLS downloader with concurrent downloads, AES-128 decryption, live progress, and queue persistence.
+
+## What I'm Working On
+
+- **Android engineering** - architecture, performance, offline-first apps, real-time communication, background work, and production reliability.
+- **Kotlin Multiplatform** - exploring shared mobile logic and Compose Multiplatform for desktop applications.
+- **AI-assisted development** - building practical developer tooling and experimenting with agentic coding workflows.
+- **Backend fundamentals** - expanding beyond the client with APIs, automation, and services that support mobile products.
+
+## Core Stack
+
+**Android:** Kotlin, Java, Jetpack Compose, Android SDK, Coroutines, Flow, Room, Retrofit, Hilt, Firebase  
+**Architecture:** MVVM, Clean Architecture, modularization, offline-first patterns  
+**Cross-platform:** Kotlin Multiplatform, Compose Multiplatform  
+**Tools:** GitHub Actions, Gradle, Fastlane, Python, Node.js, Docker
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=BharathKmalviya&hide_border=true)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-k-malviya)
+[![X](https://img.shields.io/badge/-@BharathKMalviya-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BharathKmalviya)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14477511)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Bharathkmalviya@gmail.com)
 
 ---
 
-- 🔭 **Currently:** Building Android apps end-to-end at MagicDecor — sales, catalogue & field-ops tools
-- ⚡ **Superpower:** Turning complex problems into elegant, performant code
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-k-malviya)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BharathKmalviya)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14477511)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bharathkmalviya@gmail.com)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="left">
-<img src="https://github-readme-stats-bharathkmalviyas-projects.vercel.app/api?username=BharathKmalviya&show_icons=true&private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkmalviya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-</div>
-
-<div align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bharathkmalviya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
+> Build useful things. Keep the architecture clean. Ship.
