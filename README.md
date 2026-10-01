@@ -2,14 +2,13 @@
 
 📍 **India** | 📱 **Senior Android Engineer** | 🤖 **AI-aware mobile builder**
 
-I build production Android apps, developer tools, and cross-platform experiments around **Kotlin, Jetpack Compose, KMP, and AI-assisted engineering**.
+I build production Android apps and developer tools around **Kotlin, Jetpack Compose, and AI-assisted engineering**.
 
 Open to **Senior Android / Mobile Engineering** opportunities where I can own features end-to-end and help ship reliable products.
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![KMP](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -18,13 +17,12 @@ Open to **Senior Android / Mobile Engineering** opportunities where I can own fe
 ## Start Here
 
 - 🌍 **[android-llm-localization](https://github.com/BharathKmalviya/android-llm-localization)** - CLI that translates Android `strings.xml` with Gemini, OpenAI, Anthropic, or Ollama.
-- ⏱️ **[Aggressive Pomodoro](https://github.com/BharathKmalviya/Aggressive-Pomodoro)** - Windows focus timer built with Kotlin and Compose Multiplatform, with local tasks, reports, persistent sessions, and release packaging.
+- ⏱️ **[Aggressive Pomodoro](https://github.com/BharathKmalviya/Aggressive-Pomodoro)** - Windows focus timer built with Kotlin, with local tasks, reports, persistent sessions, and release packaging.
 - 🎬 **[stream-dl](https://github.com/BharathKmalviya/stream-dl)** - Fast, resumable HLS downloader with concurrent downloads, AES-128 decryption, live progress, and queue persistence.
 
 ## What I'm Working On
 
 - **Android engineering** - architecture, performance, offline-first apps, real-time communication, background work, and production reliability.
-- **Kotlin Multiplatform** - exploring shared mobile logic and Compose Multiplatform for desktop applications.
 - **AI-assisted development** - building practical developer tooling and experimenting with agentic coding workflows.
 - **Backend fundamentals** - expanding beyond the client with APIs, automation, and services that support mobile products.
 
@@ -32,7 +30,6 @@ Open to **Senior Android / Mobile Engineering** opportunities where I can own fe
 
 **Android:** Kotlin, Java, Jetpack Compose, Android SDK, Coroutines, Flow, Room, Retrofit, Hilt, Firebase  
 **Architecture:** MVVM, Clean Architecture, modularization, offline-first patterns  
-**Cross-platform:** Kotlin Multiplatform, Compose Multiplatform  
 **Tools:** GitHub Actions, Gradle, Fastlane, Python, Node.js, Docker
 
 ## GitHub Activity
